@@ -1,5 +1,7 @@
 # SIMGuard
 
+![logo](https://raw.githubusercontent.com/sagarsiddhpura/SIMGuard/master/sIMGuard/Simguard.jpg)
+
 I developed the app "SimGuard" for Yureka All Challenge and won 2nd place in the country.
 
 This is anti-theft app designed to work specially where data/GPS might be off.
